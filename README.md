@@ -474,7 +474,7 @@ This project demonstrates:
 
 ## 📄 License
 
-Open source — for educational purposes.
+MIT License.
 
 ---
 
