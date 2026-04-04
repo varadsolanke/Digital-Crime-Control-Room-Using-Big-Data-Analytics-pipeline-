@@ -1,0 +1,11 @@
+user_id,activity_type,timestamp,ip_address,status
+alice,login_attempt,2026-04-01T09:00:00Z,10.10.1.10,failure
+alice,login_attempt,2026-04-01T09:03:00Z,10.10.1.10,failure
+alice,login_attempt,2026-04-01T09:06:00Z,10.10.1.10,success
+bob,phishing_click,2026-04-01T11:22:00Z,172.16.2.4,failure
+charlie,password_reset,2026-04-01T11:30:00Z,192.168.1.20,success
+diana,hacking_attempt,2026-04-02T03:15:00Z,203.0.113.45,failure
+eric,ddos_probe,2026-04-02T05:42:00Z,203.0.113.45,failure
+unknown,login_attempt,2026-04-02T06:00:00Z,10.10.1.15,failure
+frank,credential_stuffing,2026-04-03T02:00:00Z,172.31.0.40,failure
+grace,login_attempt,2026-04-03T04:20:00Z,192.168.12.10,success

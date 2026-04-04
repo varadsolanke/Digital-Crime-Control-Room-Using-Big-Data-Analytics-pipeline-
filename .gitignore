@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Node / frontend
+frontend/node_modules/
+frontend/dist/
+
+# VS Code
+.vscode/*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Runtime outputs
+backend/results/*.parquet
+backend/results/*.png
+backend/uploads/*.csv
+
+# Large generated data
+hdfs/cyber_logs/**/logs.parquet
