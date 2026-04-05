@@ -381,6 +381,8 @@ unknown,login_attempt,2026-04-02T06:00:00Z,10.10.1.15,failure
 
 Contains: repeated IPs for suspicious detection · mixed activity types · `"unknown"` entries (filtered by Spark) · both success & failure statuses · real attack scenario patterns.
 
+The complete dataset can be downloaded from [https://drive.google.com/drive/folders/1ghUgOM6Sz9Y5HP9vi60ip2JfVF-NolU1?usp=share_link]
+
 ---
 
 ## 🔧 Troubleshooting
